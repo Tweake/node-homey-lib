@@ -429,7 +429,7 @@
 		"measure_wind_strength": {
 			"type": "number",
 			"title": {
-				"en": "Wind Strenth",
+				"en": "Wind Strength",
 				"nl": "Windsnelheid"
 			},
 			"units": "km/h",
